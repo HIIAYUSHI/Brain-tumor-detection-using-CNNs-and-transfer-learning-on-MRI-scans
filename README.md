@@ -1,0 +1,2 @@
+# Brain-tumor-detection-using-CNNs-and-transfer-learning-on-MRI-scans
+A comprehensive comparative analysis on CNN models - LeNet, AlexNet, ZFNet,  VGGNet, GoogLeNet, and ResNet50 on a dataset comprising 10287 MRI images across four  classes: glioma, meningioma, pituitary tumors, and non-tumor cases also investigated the efficacy of transfer learning using a pre trained VGG16 model with ImageNet weights
