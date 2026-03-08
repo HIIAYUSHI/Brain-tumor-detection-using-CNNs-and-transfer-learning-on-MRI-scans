@@ -42,6 +42,16 @@ The following models are implemented across the two notebooks:
 8. Predict sample MRI images (via `predict_image()` in ZFNet notebook)
 
 ---
+## Architecture
+MRI Image
+↓
+Preprocessing
+↓
+Transfer Learning Model
+↓
+CNN Layers
+↓
+Classification (Tumor / No Tumor)
 
 ## Results
 Actual accuracy values are not printed in the uploaded notebooks.  
